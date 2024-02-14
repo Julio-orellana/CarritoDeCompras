@@ -147,18 +147,10 @@ Y de esta manera hemos concluído con éxito toda la configuración necesaria pa
 
 
 
----
-
-<h2>Créditos correspondientes dentro de código fuente de esta aplicación | Muchas gracias por obtener este repositorio hecho con algunas tazas de café ☕ ❤️</h2>
-
-
-
-
- ![CSharp](https://user-images.githubusercontent.com/44457989/70968018-afb2cf00-205d-11ea-9b79-2ff5a0a100ac.png)<br>
+--- 
  
  
- 
- <h4>*** Fecha de Subida: 11 agosto 2022 ***</h4>
+ <h4>*** Fecha de Subida: 14 febrero 2024 ***</h4>
 
 
 
