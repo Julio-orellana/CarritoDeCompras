@@ -49,7 +49,7 @@ Y de esta manera hemos concluído con éxito toda la configuración necesaria pa
 
 <h1>Importante</h1>
 
-<p>Se ha compartido todas las sentencias SQL que usted necesita para crear la respectiva base de datos. <strong>Esta en total libertad de dar el nombre que usted desee al momento de crear la misma, pero deberá reflejar ese cambio en el archivo de conexión de la aplicación correspondiente.</strong> Al momento de registrar los respectivos productos, usted se dará cuenta que hay una columna llamada <strong>RutaImagen</strong> en dónde usted deberá asignar su URL completa de su máquina en específico. Si usted no realiza este cambio, lamentamos informarle que las imágenes no se mostrarán al momento de ejecutar está aplicación. <strong>La URL por defecto es la siguiente: C:\Users\dany_\OneDrive\Escritorio\CarritoMVC\FotosProductos  -> Usted debe cambiar según la ubicación en dónde ejecute esta aplicación.</strong></p>
+<p>Se ha compartido todas las sentencias SQL que usted necesita para crear la respectiva base de datos. <strong>Esta en total libertad de dar el nombre que usted desee al momento de crear la misma, pero deberá reflejar ese cambio en el archivo de conexión de la aplicación correspondiente.</strong> Al momento de registrar los respectivos productos, usted se dará cuenta que hay una columna llamada <strong>RutaImagen</strong> en dónde usted deberá asignar su URL completa de su máquina en específico. Si usted no realiza este cambio, lamentamos informarle que las imágenes no se mostrarán al momento de ejecutar está aplicación. <strong>La URL por defecto es la siguiente: C:\Users\Julio-Orellana\OneDrive\Escritorio\CarritoMVC\FotosProductos  -> Usted debe cambiar según la ubicación en dónde ejecute esta aplicación.</strong></p>
 
 
 
